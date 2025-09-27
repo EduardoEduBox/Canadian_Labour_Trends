@@ -32,7 +32,7 @@ The main focus is on:
 3. **Trend Analysis** – employment rate changes by gender, region, and time.
 4. **Wage Analysis** – comparison of salaries by gender and sector.
 5. **Visualizations** – time-series plots, bar charts, heatmaps.
-6. **Modeling (optional)** – regression to predict wage/employment trends.
+6. **Modeling** – regression to predict wage/employment trends.
 
 ## 🎯 Expected Outcomes
 
